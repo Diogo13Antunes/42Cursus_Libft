@@ -11,6 +11,7 @@ See the [subject](./subject.pdf) for more information.
   - [Libc Functions](#libc-functions)
   - [Additional Functions](#additional-functions)
   - [Bonus Functions](#bonus-functions-functions-for-linked-list-manipulation)
+- [License](#license)
 
 ## What is Libft?
 
