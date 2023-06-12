@@ -91,19 +91,27 @@ Some of the standard C functions
 
 1. Clone the repository.
 
-   ``git clone git@github.com:Diogo13Antunes/42Cursus_Libft.git``
+```shell
+git clone git@github.com:Diogo13Antunes/42Cursus_Libft.git
+```
 
 2. Go to the repository.
 
-   ``cd 42Cursus_Libft``
+```shell
+cd 42Cursus_Libft
+```
 
 3. Create the library.
 
-   ``make``
+```shell
+make
+```
 
 4. Execution
 
-   ``gcc example_main.c libft.a``
+```shell
+gcc example_main.c libft.a
+```
 
 ## License
 
